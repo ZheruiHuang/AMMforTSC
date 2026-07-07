@@ -1,0 +1,6 @@
+# Install CityFlow separately: https://cityflow.readthedocs.io/en/latest/install.html
+gymnasium
+numpy<2
+psutil
+torch
+tqdm
